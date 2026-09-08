@@ -1,2 +1,2 @@
 # firstTestRepo
-Pierwsze repsytorium dla testu
+Pierwsze reposytorium dla testu
